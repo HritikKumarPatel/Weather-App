@@ -1,1 +1,1 @@
-# weather-app-react-redux-typescript
+# weather-app
